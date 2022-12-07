@@ -4,6 +4,7 @@ This program is open to all hospital users without the need for login informatio
 The user can select the specialization(1 - 20) then, enter the requird information.
 Each specialization has a queue with max size of 5.
 
+
 # Features
 - Add patients to the queue (regular/urgent)
 - Print all patients data
